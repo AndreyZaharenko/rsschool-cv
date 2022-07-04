@@ -13,9 +13,9 @@ Last Name: Zaharenko
 <li>Discord: aenkovv#8529</li>
 <h4>Me in a nutshell:</h4>
 <h6>I'm from Belarus, Vitebsk. Actually I don't have any hobbies, but i really like learn something new. I appreciate work with productivity team, which can make everything. In nowadays I tried to learn JavaScript language. One year ago i tried to create my first website, but I went into high school, where I can't learn any frameworks and languages.</h6>
-<h4>
+<h2>
 My skills:
-</h4>
+</h2>
 <h5>
 Soft skills:
 </h5>
@@ -30,27 +30,23 @@ Hard skills:
 <li>3D animations</li>
 </body>
 <h4>Examples of my code:</h4>
-<p>
+<div>
 function (a,b){
     return (a*b)
 }
-</p>
+</div>
 <h4>
 Education:
 </h4>
-<p>
-Graduated from High school N45 in Vitebsk
-Planing to continue education in University
-</p>
+<h6>Graduated from High school N45 in Vitebsk</h6>
+<h6>Planing to continue education in University</h6>
 <h4>
 English:
 </h4>
-<p>
-Course on Yandex.Practicum (almost pass)
-School education
-</p>>
+<h6>Course on Yandex.Practicum (almost pass)</h6>
+<h6>School education (english profile)</h6>
 <footer>
-<h4>
+<h2>
 Thanks for attention!
-</h4>
+</h2>
 </footer>
