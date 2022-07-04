@@ -1,10 +1,16 @@
 <header>
-<div>RESUME</div>
-<p>test1</p>
+<h2>My RESUME</h2>
+<h2>04.07.2022</h2>
 </header>
 <body>
-<h4>Name: Andrey</h4>
-<h4>Last name: Zaharenko</h4>
+<div>Name: Andrey</div>
+<div>Last name: Zaharenko</div>
 <li>soft skills:</li>
 <li>hard skills:</li>
 </body>
+<footer>
+<div>Contacts:</div>
+<li>Phone: +375291829642</li>
+<li>Mail: aenkovv@gmail.com</li>
+<li>Telegram: @aenkovv</li>
+</footer>
